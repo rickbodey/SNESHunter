@@ -1,0 +1,9 @@
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\bin\Release\snesclassicalert.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\bin\Release\snesclassicalert.exe
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\bin\Release\snesclassicalert.pdb
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\obj\Release\snesclassicalert.exe
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\obj\Release\snesclassicalert.pdb
+D:\GitHub\SNESHunter\bin\Release\snesclassicalert.exe.config
+D:\GitHub\SNESHunter\obj\Release\snesclassicalert.exe
+D:\GitHub\SNESHunter\obj\Release\snesclassicalert.pdb
+D:\GitHub\SNESHunter\bin\Release\SNESHunter.exe.config

@@ -1,0 +1,12 @@
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\bin\Debug\snesclassicalert.exe.config
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\bin\Debug\snesclassicalert.exe
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\bin\Debug\snesclassicalert.pdb
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\obj\Debug\snesclassicalert.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\obj\Debug\snesclassicalert.exe
+c:\users\mike\documents\visual studio 2015\Projects\snesclassicalert\obj\Debug\snesclassicalert.pdb
+D:\GitHub\SNESHunter\bin\Debug\SNESHunter.exe.config
+D:\GitHub\SNESHunter\bin\Debug\SNESHunter.exe
+D:\GitHub\SNESHunter\bin\Debug\SNESHunter.pdb
+D:\GitHub\SNESHunter\obj\Debug\snesclassicalert.csprojResolveAssemblyReference.cache
+D:\GitHub\SNESHunter\obj\Debug\SNESHunter.exe
+D:\GitHub\SNESHunter\obj\Debug\SNESHunter.pdb
